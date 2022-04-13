@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 its
+=======
+first doc
+>>>>>>> 6bf3cabc5f43e9221049f79fb294c7d805d82a8a
 2行目
